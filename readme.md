@@ -9,10 +9,10 @@ A simple command-line interface (CLI) tool for managing tasks. This project allo
 - Delete tasks by their ID.
 - Mark tasks as in-progress or done.
 - List all tasks or filter by status (todo, in-progress, done).
-### URL
+### Project URL
 
 ```Golang
-https://github.com/girldocode/task-tracker-cli
+https://roadmap.sh/projects/task-tracker
 ```
 
 ## Installation
